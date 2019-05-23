@@ -1,6 +1,5 @@
 # Dog-Classification-Classification
-This is a Deep LearningModel built using fast.ai library which i has gather a large  amount og hype in current Day. 
-For its simplicity in code and length of the code we write write to built a model.
+This is a Deep Learning Model built using the a library called fast.ai which, has gather a large  amount of hype in current day,for its simplicity in code and length of the code we write write to built a model.
 ![Screenshot from 2019-05-23 21-06-53](https://user-images.githubusercontent.com/29728855/58266484-5cb2bb00-7d9f-11e9-864b-4574ab70ae4c.png)
 
 I have used the [Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/) by 
