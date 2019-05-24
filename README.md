@@ -12,4 +12,4 @@ Let's see how accurate we can be using deep learning!
 
 The dataset can downloadd by using `untar_data` function to which we must pass a URL as an argument and which will download and extract the data.
 
-## The Model built by now using fast.ai library is now is 96% (2019) accurate whch is very much better than the paper accuracy with is 59.12% in 2012.
+## The Model built using fast.ai library is now it is 96% (2019) accurate whch is very much better than the paper accuracy with is 59.12% in 2012.
