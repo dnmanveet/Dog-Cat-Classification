@@ -1,4 +1,4 @@
-# Dog-Classification-Classification
+# Dog-Cat-Classification
 This Deep Learning Model built using the a fast.ai library which, has gather a large  amount of hype in current day(2019),for its simplicity in code and length of the code we write to built the model.
 ![Screenshot from 2019-05-23 21-06-53](https://user-images.githubusercontent.com/29728855/58266484-5cb2bb00-7d9f-11e9-864b-4574ab70ae4c.png)
 
